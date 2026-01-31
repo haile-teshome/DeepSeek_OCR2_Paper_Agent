@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mcp": {
+      "command": "add",
+      "args": [
+        "context7",
+        "npx",
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
+    }
+  }
+}
